@@ -57,7 +57,7 @@ WBS
 
 ```json
 {
- "file": "Modules/DYNAMICS/M8207/PHOTOS/1995 - M8207 - audio compressor - limiter 002.jpg",
+ "file": "Modules/DYNAMICS/M8207/MANUALS/1995 - M8207 - audio compressor - limiter 002.jpg",
  "sha256": "75299d4edd244cfc82cfdac2e324573935be89037bc83ee83bf132cfd95f33a4",
  "kind": "module",
  "models": [
