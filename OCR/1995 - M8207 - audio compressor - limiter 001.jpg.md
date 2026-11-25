@@ -1,5 +1,5 @@
 # 1995 - M8207 - audio compressor - limiter 001.jpg
-Wiki page: [M8207](../../../PAGES/M8207.md)
+Wiki page: [M8207](../../../../PAGES/M8207.md)
 
 
 - **Year:** 1995 (module estimate (manual_issue))
@@ -37,7 +37,7 @@ WBS WARD-BECK SYSTEMS
 
 ```json
 {
- "file": "Modules/DYNAMICS/M8207/1995 - M8207 - audio compressor - limiter 001.jpg",
+ "file": "Modules/DYNAMICS/M8207/PHOTOS/1995 - M8207 - audio compressor - limiter 001.jpg",
  "sha256": "f3038a8f2338d65ab444726cf378cb5c3cd5a67a7a828ee7ce028d81c452f4ca",
  "kind": "module",
  "models": [

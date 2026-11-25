@@ -1,5 +1,5 @@
 # 1995 - M8207 - audio compressor - limiter 003.jpg
-Wiki page: [M8207](../../../PAGES/M8207.md)
+Wiki page: [M8207](../../../../PAGES/M8207.md)
 
 
 - **Year:** 1995 (module estimate (manual_issue))
@@ -27,7 +27,7 @@ DSO
 
 ```json
 {
- "file": "Modules/DYNAMICS/M8207/1995 - M8207 - audio compressor - limiter 003.jpg",
+ "file": "Modules/DYNAMICS/M8207/PHOTOS/1995 - M8207 - audio compressor - limiter 003.jpg",
  "sha256": "49deb69ad18e054f233572700d3e3b86846fc30418736a790eaee1d70a517eca",
  "kind": "module",
  "models": [

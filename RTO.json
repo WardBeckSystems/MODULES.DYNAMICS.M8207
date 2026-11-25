@@ -1,0 +1,72 @@
+{
+ "code": "M8207",
+ "connector": "RTO-144",
+ "type": null,
+ "series": null,
+ "contacts": "15 contacts",
+ "verified": null,
+ "derived": true,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "9",
+   "signal": "INPUT SIGNAL",
+   "kind": "in",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/DYNAMICS/M8207/SCHEMATICS/1995 - M8207 - 8207-02-001 - COMPONENT LAYOUT.wp",
+   "page": 1
+  },
+  {
+   "pin": "15",
+   "signal": "±22 VOLT DC SUPPLY BUS VOLTAGES",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/DYNAMICS/M8207/SCHEMATICS/1995 - M8207 - 8207-02-001 - COMPONENT LAYOUT.wp",
+   "page": 1
+  },
+  {
+   "pin": "K",
+   "signal": "INPUT SIGNAL",
+   "kind": "in",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/DYNAMICS/M8207/SCHEMATICS/1995 - M8207 - 8207-02-001 - COMPONENT LAYOUT.wp",
+   "page": 1
+  },
+  {
+   "pin": "L",
+   "signal": "INPUT SIGNAL",
+   "kind": "in",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/DYNAMICS/M8207/SCHEMATICS/1995 - M8207 - 8207-02-001 - COMPONENT LAYOUT.wp",
+   "page": 1
+  },
+  {
+   "pin": "S",
+   "signal": "±22 VOLT DC SUPPLY BUS VOLTAGES",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/DYNAMICS/M8207/SCHEMATICS/1995 - M8207 - 8207-02-001 - COMPONENT LAYOUT.wp",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Modules/DYNAMICS/M8207/SCHEMATICS/1995 - M8207 - 8207-02-001 - COMPONENT LAYOUT.wp"
+ ]
+}
