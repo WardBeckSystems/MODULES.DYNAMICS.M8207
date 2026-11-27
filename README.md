@@ -1,11 +1,11 @@
-# M8207 · Dynamics
+# M8207 Audio Compressor Limiter · Dynamics
 
 Ward-Beck Systems M8207, 1995|28. Wiki page: [M8207 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M8207.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
 | [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 1 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
 | [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
 | [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 4 |
 | [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
