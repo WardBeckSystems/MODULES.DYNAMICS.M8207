@@ -1,6 +1,6 @@
 # M8207 Audio Compressor Limiter · Dynamics
 
-Ward-Beck Systems M8207, 1995|28. Wiki page: [M8207 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M8207.html)
+Ward-Beck Systems M8207, 1995|28. Wiki page: [M8207 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.DYNAMICS.M8207-Audio-Compressor-Limiter/)
 
 | Folder | What is in it | Files |
 |---|---|---|

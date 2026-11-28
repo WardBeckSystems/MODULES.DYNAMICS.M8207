@@ -1,5 +1,5 @@
 # 1995 - M8207 - audio compressor - limiter 002.jpg
-Wiki page: [M8207](../../../../PAGES/M8207.md)
+Wiki page: [M8207](../)
 
 
 - **Year:** 1995 (module estimate (manual_issue))
